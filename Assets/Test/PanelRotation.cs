@@ -1,14 +1,14 @@
-﻿using UnityEngine;
-
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 public class PanelRotation : MonoBehaviour
 {
-    private bool isTurning;
+    public bool isTurning;
 
-    private void Update()
+    void Update()
     {
 
     }
-
     private void RotationReset()
     {
 
