@@ -37,6 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Test\PanelRotation.cs" />
+     <Compile Include="Assets\Test\Pointer.cs" />
+     <Compile Include="Assets\Test\checkPointer.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:/Unity2019/2019.4.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
